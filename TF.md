@@ -244,6 +244,44 @@ terraform destroy (Optional)
 
 ---
 
+---
+
+# 🖼️ Demo Screenshots
+
+The following screenshots demonstrate the Terraform workflow, configuration, and project examples.
+
+## Screenshot 1
+
+<p align="center">
+  <img src="Terraform-1.png" alt="Terraform Demo 1" width="800">
+</p>
+
+---
+
+## Screenshot 2
+
+<p align="center">
+  <img src="terraform-2.png" alt="Terraform Demo 2" width="800">
+</p>
+
+---
+
+## Screenshot 3
+
+<p align="center">
+  <img src="terraform-3.png" alt="Terraform Demo 3" width="800">
+</p>
+
+---
+
+## Screenshot 4
+
+<p align="center">
+  <img src="terraform-4.png" alt="Terraform Demo 4" width="800">
+</p>
+
+---
+
 # 🎯 Conclusion
 
 Terraform simplifies infrastructure management by allowing you to define cloud resources as code. It provides consistency, automation, version control, and repeatable deployments across multiple cloud platforms.
