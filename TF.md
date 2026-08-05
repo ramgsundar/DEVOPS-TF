@@ -261,7 +261,7 @@ The following screenshots demonstrate the Terraform workflow, configuration, and
 ## Screenshot 2
 
 <p align="center">
-  <img src="terraform-2.png" alt="Terraform Demo 2" width="800">
+  <img src="terraform2.png" alt="Terraform Demo 2" width="800">
 </p>
 
 ---
@@ -269,7 +269,7 @@ The following screenshots demonstrate the Terraform workflow, configuration, and
 ## Screenshot 3
 
 <p align="center">
-  <img src="terraform-3.png" alt="Terraform Demo 3" width="800">
+  <img src="terraform3.png" alt="Terraform Demo 3" width="800">
 </p>
 
 ---
@@ -277,7 +277,7 @@ The following screenshots demonstrate the Terraform workflow, configuration, and
 ## Screenshot 4
 
 <p align="center">
-  <img src="terraform-4.png" alt="Terraform Demo 4" width="800">
+  <img src="terraform4.png" alt="Terraform Demo 4" width="800">
 </p>
 
 ---
