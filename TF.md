@@ -253,7 +253,7 @@ The following screenshots demonstrate the Terraform workflow, configuration, and
 ## Screenshot 1
 
 <p align="center">
- <img src="images/Terraform1.png" alt="Terraform Demo 1" width="800">
+ <img src="images/Terraform 1.png" alt="Terraform Demo 1" width="800">
 </p>
 
 ---
